@@ -17,3 +17,13 @@
 - [**Photo3**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/typewriter.md)
 - [**Photo4**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/socialmedia.md)
 - [**Photo5**](https://github.com/c18gour/gr/blob/gh-pages/_gallery/firsttransistor.md)
+
+## ΠΑΡΑΔΟΤΕΟ 1Α (2)
+- Προσθήκη 5 νέων εικόνων με λεζάντα στο [**Repository (gr)**]
+- [**Βιβλίο με 5 νέες φωτογραφίες**]
+- [**New Photo1**]
+- [**New Photo2**]
+- [**New Photo3**]
+- [**New Photo4**]
+- [**New Photo5**]
+
